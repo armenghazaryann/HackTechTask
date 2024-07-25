@@ -22,3 +22,9 @@ The dataset contains conversations between leads and the AI bot. Each entry in t
 The final deliverables for this task include:
 1. A Jupyter Notebook with the code used for the evaluation.
 2. A CSV file containing the results, where each row includes a lead ID and the corresponding conversation score.
+
+
+### For Installing Requirements
+```
+pip install -r requirements.txt
+```
